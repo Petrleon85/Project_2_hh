@@ -47,7 +47,7 @@ PROJECT_2. Анализ резюме из HeadHunter с целью изучен�
 
 ---
 
-Проект загружен на [GitHub](https://github.com/Petrleon85/Project_2_hh.git), обеспечена воспроизводимость кода:
+Проект загружен на [GitHub](Project_2_hh.ipynb), обеспечена воспроизводимость кода:
 
 *   [project_2_hh.ipynb](https://drive.google.com/drive/folders/1dO4_uAtK_D7VnGWpd1Ft6YVEEuEul59m?usp=drive_link) - ноутбук-шаблон с решениями заданий;
 *   [data](https://drive.google.com/drive/folders/1l4yg8CEw5fBAQIi6J3NNf21YBwysMBAh?usp=drive_link) - данные, на основе которых делался проект;
