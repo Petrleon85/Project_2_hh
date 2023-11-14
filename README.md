@@ -47,15 +47,13 @@ PROJECT_2. Анализ резюме из HeadHunter с целью изучен�
 
 ---
 
-Проект загружен на [GitHub](https://github.com/Stanislav-DS/sf_data_science/tree/main/project_2_hh), обеспечена воспроизводимость кода:
+Проект загружен на [GitHub](https://github.com/Petrleon85/Project_2_hh.git), обеспечена воспроизводимость кода:
 
-*   [project_2_hh.ipynb](/project_2_hh/project_2_hh.ipynb) - ноутбук-шаблон с решениями заданий (графики "png");
-*   [project_2_hh_html.ipynb](/project_2_hh/project_2_hh_html.ipynb) - ноутбук-шаблон с решениями заданий (графики "html");
-*   [просмотр ноубука со всеми графиками в браузере](https://nbviewer.org/github/Stanislav-DS/sf_data_science/blob/main/project_2_hh/project_2_hh_html.ipynb) (через nbviewer.org);
-*   [data](https://cloud.mail.ru/public/CM7m/nsfE8XDCA) - данные, на основе которых делался проект (облако mail.ru);
-*   [все графики в формате html](/project_2_hh/graphs)
+*   [project_2_hh.ipynb](/project_2_hh/Project_2_hh.ipynb) - ноутбук-шаблон с решениями заданий;
+*   [data](https://drive.google.com/drive/folders/1l4yg8CEw5fBAQIi6J3NNf21YBwysMBAh?usp=drive_link) - данные, на основе которых делался проект;
+*   [все графики в формате html](https://drive.google.com/drive/folders/1dO4_uAtK_D7VnGWpd1Ft6YVEEuEul59m?usp=drive_link)
 *   [requirements.txt](/project_2_hh/requirements.txt) - актульные версии библиотек на момент подготовки проекта;
-*   [обратная связь от ментора.](https://docs.google.com/document/d/16YJjjCCBR3n1AtIgkRQDW6DkM0DTZwP2oLRMzGpaYlI/edit)
+*   [обратная связь от ментора.]()
 
 ⬆️[к оглавлению](/project_2_hh/README.md#Оглавление)
 
