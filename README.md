@@ -6,7 +6,7 @@ PROJECT_2. Анализ резюме из HeadHunter с целью изучен�
 
 1. [Описание проекта.](https://github.com/Petrleon85/Project_2_hh/blob/main/README.md#описание-проекта)
 
-1. [Проектный кейс.](https://github.com/Petrleon85/Project_2_hh/blob/main/README.md#описание-проекта/README.md#Проектный-кейс)
+1. [Проектный кейс.](https://github.com/Petrleon85/Project_2_hh/blob/main/README.md#проектный-кейс)
 
 1. [Результат.](https://github.com/Petrleon85/Project_2_hh/blob/main/README.md#результат)
 
